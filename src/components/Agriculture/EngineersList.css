@@ -1,0 +1,48 @@
+.EngineersList {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.EngineersList ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.EngineersList li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  position: relative;
+}
+
+.EngineersList button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #3b3d05;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.EngineersList button:hover {
+  background-color: #181b1e;
+}
+
+.details-form {
+  margin-top: 10px;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  background-color: #bfc71c;
+  border-radius: 5px;
+}
+
+.details-form p {
+  margin: 5px 0;
+}
+
+.details-form p strong {
+  display: inline-block;
+  width: 100px;
+}

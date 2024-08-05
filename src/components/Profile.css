@@ -1,0 +1,44 @@
+.profile-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.profile-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.profile-button:hover {
+  background-color: #0056b3;
+}
+
+.profile-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  width: 100%; /* Adjust width as needed */
+  margin-bottom: 20px;
+  background-color: #f9f9f9; /* Optional: Add a background color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+  text-align: left;
+}
+
+.logout-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
